@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hdhdhadjhdjhdd
 djjdjaddjaj
 =======
+=======
+>>>>>>> Rama1
 Achivo_1.txt
 Línea 2
 
@@ -9,4 +12,7 @@ Línea 2
 Línea 3
 Línea 4 desde rama1
 
+<<<<<<< HEAD
 >>>>>>> rama1
+=======
+>>>>>>> Rama1
